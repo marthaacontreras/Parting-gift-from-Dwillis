@@ -14,3 +14,9 @@ In the terminal, type `bash install.sh` and hit return. Wait a minute while it f
 
 Then click on the file called `wget_example.md` to get started.
 
+git add . 
+git commit -m "added new files" 
+git push origin main
+
+
+
